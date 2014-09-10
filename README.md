@@ -1,4 +1,4 @@
 jackfruit
 =========
 
-A multi tentant Node.JS framework
+A multi tenant Node.JS framework

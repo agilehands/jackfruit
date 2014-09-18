@@ -18,7 +18,7 @@ It has no intention to be a highly configurable modular framework, instead gener
 
 
 ## Release 1.0
-1. Too lazy to write
+1. Initial release
 
 ### ToDo
 1. Gulp integration for sites

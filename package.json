@@ -1,0 +1,37 @@
+{
+  "name": "jackfruit",
+  "version": "1.0.0",
+  "description": "A multi tenant node.js framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agilehands/jackfruit.git"
+  },
+  "keywords": [
+    "Node",
+    "nodejs",
+    "express",
+    "socket",
+    "realtime",
+    "fullstack",
+    "framework",
+    "simple",
+    "fast",
+    "stateless"
+  ],
+  "author": "Agilehands",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agilehands/jackfruit/issues"
+  },
+  "homepage": "https://github.com/agilehands/jackfruit",
+  "dependencies": {
+    "formidable": "^1.0.15",
+    "node-static": "^0.7.4",
+    "routes": "^1.2.0"
+  }
+}

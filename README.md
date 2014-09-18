@@ -2,9 +2,11 @@
 
 A multi tenant Node.JS framework, took some inspiration from Grails.
 
+
 _**Disclaimer**_:
-It has no intention to be a replacement for Express or other frameworks.
+1. It has no intention to be a replacement for Express or other frameworks.
 It has no intention to be a highly configurable modular framework, instead generalization and abstraction is kept as minimum as possible.
+2. It is **_Stateless_** i.e. no session handling is implemented and neither there is any plan for it.
 
 ## Tutorial
 1. Start the server as: node `index.js`, define port in the index.js
@@ -21,7 +23,7 @@ It has no intention to be a highly configurable modular framework, instead gener
 1. Initial release
 
 ### ToDo
-1. Gulp integration for sites
+1. Gulp integration for all site gulp files.
 2. Yeoman generator
 3. Better log support.
 4. More test coverage ;-) 

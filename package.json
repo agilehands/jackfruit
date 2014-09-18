@@ -21,7 +21,8 @@
     "framework",
     "simple",
     "fast",
-    "stateless"
+    "stateless",
+    "grails"
   ],
   "author": "Agilehands",
   "license": "MIT",

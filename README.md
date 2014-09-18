@@ -1,4 +1,4 @@
-# Jackfruit: A simple and easy multi tenant Node.JS framework
+# Jackfruit: A simple and easy multi tenant Node.JS stateless web framework
 
 A multi tenant Node.JS framework, took some inspiration from Grails.
 
